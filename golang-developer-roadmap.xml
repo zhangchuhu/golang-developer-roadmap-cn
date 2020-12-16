@@ -1,4 +1,4 @@
-<mxfile modified="2020-12-16T09:59:55.036Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="gMPMd3iOJWDS6geTfRP2" compressed="false" version="14.0.1" type="github">
+<mxfile modified="2020-12-16T11:08:59.617Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="q4Mm_V3QK9Z4ETbIiEan" compressed="false" version="14.0.1" type="github">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="Page-1">
     <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -181,10 +181,10 @@
         <mxCell id="15a4b3893f7299b4-88" value="web框架" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
           <mxGeometry x="501" y="525" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="15a4b3893f7299b4-92" value="数据库" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
+        <mxCell id="15a4b3893f7299b4-92" value="微服务" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
           <mxGeometry x="172.5" y="612.5" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="15a4b3893f7299b4-93" value="关系数据库&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
+        <mxCell id="15a4b3893f7299b4-93" value="服务发现" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
           <mxGeometry x="108" y="512" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="15a4b3893f7299b4-95" value="SQL Server" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFCC99;" parent="1" vertex="1">
@@ -199,7 +199,7 @@
         <mxCell id="15a4b3893f7299b4-100" value="PostgreSQL&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;" parent="1" vertex="1">
           <mxGeometry x="238" y="442" width="72" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="15a4b3893f7299b4-105" value="云数据库" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" parent="1" vertex="1">
+        <mxCell id="15a4b3893f7299b4-105" value="链路跟踪" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" parent="1" vertex="1">
           <mxGeometry x="190" y="559" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="15a4b3893f7299b4-106" value="Azure CosmosDB" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;" parent="1" vertex="1">
@@ -220,7 +220,7 @@
         <mxCell id="15a4b3893f7299b4-116" value="日志框架&lt;br&gt;（Log Framework）&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
           <mxGeometry x="244" y="940" width="130" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="15a4b3893f7299b4-118" value="NoSQL" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" parent="1" vertex="1">
+        <mxCell id="15a4b3893f7299b4-118" value="日志架构" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" parent="1" vertex="1">
           <mxGeometry x="30" y="652.5" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="15a4b3893f7299b4-119" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=10;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="hN1WOHKFd2xeFHFnYRlw-194" edge="1">
@@ -829,7 +829,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BwiGo_6VFYfL9zqDBXxp-204" value="搜索引擎" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" parent="1" vertex="1">
+        <mxCell id="BwiGo_6VFYfL9zqDBXxp-204" value="监控架构" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" parent="1" vertex="1">
           <mxGeometry x="170" y="694" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BwiGo_6VFYfL9zqDBXxp-205" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="BwiGo_6VFYfL9zqDBXxp-204" target="BwiGo_6VFYfL9zqDBXxp-208" edge="1">
