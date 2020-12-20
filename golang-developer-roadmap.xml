@@ -1,4 +1,4 @@
-<mxfile modified="2020-12-20T11:32:32.541Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="9JSRWJs6YT6GIbguMmFV" compressed="false" version="14.0.3" type="github">
+<mxfile modified="2020-12-20T11:33:23.475Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="EmVj-hXXq4zgQAO9gdc8" compressed="false" version="14.0.3" type="github">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="Page-1">
     <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -6,18 +6,6 @@
         <mxCell id="1" parent="0" />
         <mxCell id="4" value="&amp;nbsp;Go 开发者成长路线图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=16;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="273.5" y="30" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5" value="图例说明" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="679" y="38" width="51" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="7" value="一定要懂" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
-          <mxGeometry x="680" y="70" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="9" value="懂的话会更好" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" parent="1" vertex="1">
-          <mxGeometry x="680" y="100" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="10" value="可选项" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#CCCCCC;" parent="1" vertex="1">
-          <mxGeometry x="680" y="130" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="12" value="先决条件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;fontFamily=Verdana;fontSize=10;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="250" y="115" width="280" height="15" as="geometry" />
@@ -1315,7 +1303,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rtirzjrsSTJ158FsSPje-193" value="istio" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;" parent="1" vertex="1">
+        <mxCell id="rtirzjrsSTJ158FsSPje-193" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFFF66;" parent="1" vertex="1">
           <mxGeometry x="163" y="1905" width="65" height="15" as="geometry" />
         </mxCell>
         <mxCell id="vMx_Dh75xLSHsPrSKpm8-190" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=8;endFill=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8b8zto7bdzKnc40BGQ4G-192" edge="1">
