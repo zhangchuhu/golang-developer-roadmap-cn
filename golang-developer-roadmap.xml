@@ -1,4 +1,4 @@
-<mxfile modified="2020-12-20T12:51:19.748Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3wXSMFExsm_oQmwIsvbl" compressed="false" version="14.0.3" type="github">
+<mxfile modified="2020-12-20T13:01:07.266Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3Ur3LsZ7pIiw3XzZBflo" compressed="false" version="14.0.3" type="github">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="Page-1">
     <mxGraphModel dx="1298" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -146,10 +146,10 @@
         <mxCell id="15a4b3893f7299b4-93" value="服务发现" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFFF66;" parent="1" vertex="1">
           <mxGeometry x="108" y="512" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="15a4b3893f7299b4-96" value="etcd" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#FFCC99;" parent="1" vertex="1">
+        <mxCell id="15a4b3893f7299b4-96" value="etcd" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="88" y="442" width="65" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="15a4b3893f7299b4-97" value="grpc连接池" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#CCCCCC;" parent="1" vertex="1">
+        <mxCell id="15a4b3893f7299b4-97" value="连接池" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=8;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="163" y="442" width="65" height="15" as="geometry" />
         </mxCell>
         <mxCell id="15a4b3893f7299b4-105" value="链路跟踪(jaeger)" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=10;fillColor=#FFCC99;" parent="1" vertex="1">
@@ -175,8 +175,9 @@
             <mxPoint x="476.2108403120819" y="645.3433612483277" as="sourcePoint" />
             <mxPoint x="440" y="1850" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="476" y="880" />
               <mxPoint x="450" y="590" />
-              <mxPoint x="430" y="700" />
+              <mxPoint x="450" y="700" />
               <mxPoint x="490" y="960" />
               <mxPoint x="420" y="1280" />
               <mxPoint x="490" y="1610" />
@@ -1070,7 +1071,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hN1WOHKFd2xeFHFnYRlw-199" value="Xorm" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=9;fillColor=#FFCC99;" parent="1" vertex="1">
+        <mxCell id="hN1WOHKFd2xeFHFnYRlw-199" value="Xorm" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=9;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="670.5" y="707.5" width="96" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hN1WOHKFd2xeFHFnYRlw-205" value="" style="curved=1;endArrow=none;html=1;fontFamily=Verdana;fontSize=10;entryX=1;entryY=0.5;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryDx=0;entryDy=0;" parent="1" edge="1">
