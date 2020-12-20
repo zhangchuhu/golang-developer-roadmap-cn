@@ -1,4 +1,4 @@
-<mxfile modified="2020-12-20T11:33:23.475Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="EmVj-hXXq4zgQAO9gdc8" compressed="false" version="14.0.3" type="github">
+<mxfile modified="2020-12-20T11:36:30.973Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="_-YM7Tc9xznLyKQ0Ny-X" compressed="false" version="14.0.3" type="github">
   <diagram id="OFtFwTtmWmDuu0DWMTB4" name="Page-1">
     <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1373,6 +1373,18 @@
             <mxPoint x="714" y="870" as="targetPoint" />
             <Array as="points">
               <mxPoint x="714" y="843.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TqcsYUvuHxEYMy65Lm-n-206" value="脚手架生成插件" style="rounded=1;whiteSpace=wrap;html=1;comic=0;fontFamily=Verdana;fontSize=9;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="716" y="449.5" width="111.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TqcsYUvuHxEYMy65Lm-n-209" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=1;strokeColor=#6C8EBF;dashed=1;" edge="1" parent="1" source="TqcsYUvuHxEYMy65Lm-n-206">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="738.5" y="441.5" as="sourcePoint" />
+            <mxPoint x="600" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="632.5" y="437.5" />
             </Array>
           </mxGeometry>
         </mxCell>
